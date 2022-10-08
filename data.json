@@ -3932,6 +3932,16 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
+    },
+           {
+       "id": 227,
+       "name": "Khairiyat",
+       "lyrics": "https://www.hinditracks.in/khairiyat-lyrics",
+       "album": "CHHICHHORE",
+       "Duration": "4 min 59 sec",
+       "singer": ["Arijit Singh"],
+       "genre": ["Romantic","Indian Film Pop","Sad"],
+       "link": "https://www.youtube.com/watch?v=9-AKLAfpjrI"
     }
     
     ]
